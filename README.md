@@ -58,8 +58,8 @@ Googler's, you can freely add samples to the [flutter/demos] repository.
 
 ### Demo galleries
 
-* [`animations`] - 展示 Flutter 的动画功能。
-* [`material_3_demo`] - 展示 Flutter 材质库中的 [Material 3] 功能。
+* [`animations`] - 展示 Flutter 的动画功能。✅
+* [`material_3_demo`] - 展示 Flutter 材质库中的 [Material 3] 功能。✅
 
 ### Demo apps
 
