@@ -52,7 +52,7 @@ Googler's, you can freely add samples to the [flutter/demos] repository.
   * [`multiple_flutters`] — 展示如何使用 Flutter 引擎组 API 以低内存成本将 Flutter 的多个实例嵌入到现有应用程序中。
   * [`android_view`] — 展示如何在 Android 的视图级别将 Flutter 插件集成到应用程序模块中。
 * [`android_splash_screen`] - 展示如何为 Android 应用添加启动画面。✅
-* [`ios_app_clip`]
+* [`ios_app_clip`] - 如何将 iOS App Clip 目标添加到 Flutter 项目中。
 * [`platform_channels`] - 一个示例应用程序，演示如何在 Flutter 中使用 MethodChannel、EventChannel、BasicMessageChannel 和 MessageCodec。
 * [`platform_view_swift`] - 一个 Flutter 示例应用程序，将原生 iOS UIViewController 与全屏 Flutter 视图相结合。
 

@@ -16,11 +16,11 @@ The App Clip target is rendered by Flutter and uses a plugin.
 In order to run.
 
 1. `flutter build ios --config-only`
-1. `open Runner.xcworkspace`
-1. Inside Xcode, select the `AppClip` target from the scheme dropdown
-1. Select an iOS 16 or higher device
-1. Select a development team as needed
-1. Press run in Xcode to run
+2. `open Runner.xcworkspace`
+3. Inside Xcode, select the `AppClip` target from the scheme dropdown
+4. Select an iOS 16 or higher device
+5. Select a development team as needed
+6. Press run in Xcode to run
 
 ## Questions/issues
 
